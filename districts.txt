@@ -1,0 +1,231 @@
+Hebron|Dura|100000
+Hebron|Halhul|40000
+Hebron|Hebron|200000
+Hebron|Bani Naim|30000
+Hebron|Adh Dhahiriya|25000
+Hebron|As Samu|20000
+Hebron|Beit Ummar|15000
+Hebron|Beit Awwa|10000
+Hebron|Idhna|10000
+Hebron|Surif|10000
+Hebron|Tarqumiyah|15000
+Hebron|Beit Kahil|20000
+Hebron|Kharas|9000
+Hebron|Al-Dhahiriya|7000
+Hebron|Al-Shuyukh|12000
+Hebron|Al-Arrub Refugee Camp|10000
+Hebron|Sair|15000
+Hebron|Taffuh|8000
+Hebron|Husan|6000
+Hebron|Al-Fawwar Refugee Camp|10000
+Hebron|Beit Ula|5000
+Hebron|Yatta|70000
+Hebron|Al-Karmil|4000
+Hebron|Tarama|5000
+Hebron|Dura al-Qar'|4000
+Hebron|Qalqas|3000
+Hebron|Al-Samu'|5000
+Gaza|Jabalia|200000
+Gaza|Beit Hanoun|50000
+Gaza|Gaza City|530000
+Gaza|Khan Yunis|200000
+Gaza|Rafah|170000
+Gaza|Beit Lahiya|40000
+Deir al Balah|Deir al-Balah|50000
+Deir al Balah|Maghazi Refugee Camp|60000
+Deir al Balah|Nuseirat Refugee Camp|70000
+Deir al Balah|Bureij Refugee Camp|40000
+Deir al Balah|Wadi as-Salqa|10000
+Deir al Balah|Juhor ad-Dik|8000
+Deir al Balah|Al-Maghazi|30000
+Deir al Balah|Al-Qarara|15000
+Rafah|Yibna|9000
+Rafah|Bani Suheila|15000
+Rafah|Shawkah|11000
+Rafah|Kherbat al Adas|8000
+Rafah|Abasan al Kabira|10000
+Rafah|Al Musadar|6000
+Rafah|Salatin|7000
+Rafah|Tel al Sultan|12000
+Khan Yunis|Khan Yunis|173183
+Khan Yunis|Abasan al Jadida|12000
+Khan Yunis|Abasan al Kabira|8000
+Khan Yunis|Bani Suheila|10000
+Khan Yunis|Al Fukhari|9000
+Khan Yunis|Al Qarara|7000
+Khan Yunis|Al Amal|6000
+Khan Yunis|Al Qusaymah|5000
+Nablus|Awarta|8000
+Nablus|Yatma|7000
+Nablus|Asira ash Shamaliya|6000
+Nablus|Beita|9000
+Nablus|Aqraba|5000
+Nablus|Iraq Burin|4000
+Nablus|Burqa|3000
+Nablus|Madama|2000
+Nablus|Zawata|6000
+Nablus|Al-Lubban ash Sharqiya|4000
+Nablus|Azmut|5000
+Nablus|Far'ata|3000
+Nablus|Yanun|2000
+Nablus|Deir Sharaf|7000
+Nablus|Qusra|4000
+Nablus|Asira al Qibliya|6000
+Nablus|Jamma'in|5000
+Nablus|Kafr Qallil|4000
+Nablus|Zeita Jamma'in|3000
+Nablus|Tell|2000
+Nablus|Deir al Hatab|5000
+Nablus|Salim|3000
+Nablus|Osarin|2000
+Nablus|Yasid|1000
+Nablus|Nablus|180000
+Nablus|Balata Refugee Camp|30000
+Nablus|Beit Furik|10000
+Nablus|Huwwara|10000
+Nablus|Einabus|7000
+Nablus|Beit Dajan|5000
+Nablus|Askar Refugee Camp|20000
+Nablus|Askar al Jadid Refugee Camp|15000
+Nablus|Tel|8000
+Beit Lahem|Beit Lahem|30000
+Beit Lahem|Beit Sahour|15000
+Beit Lahem|Beit Jala|20000
+Beit Lahem|Al Khader|12000
+Beit Lahem|Tuqu|7000
+Beit Lahem|Nahalin|6000
+Beit Lahem|Al Ubeidiya|3000
+Beit Lahem|Artas|5000
+Beit Lahem|Jannatah|4000
+Beit Lahem|Husan|6000
+Beit Lahem|Wadi Fukin|3000
+Beit Lahem|Wadi Rahhal|2000
+Beit Lahem|Al-Ma'sara|3000
+Beit Lahem|Janata|4000
+Beit Lahem|Zaatara|5000
+Beit Lahem|Dar Salah|4000
+Beit Lahem|Beit Ta'mir|3000
+Beit Lahem|Khallet al Qoton|2000
+Beit Lahem|Wadi al-Nis|4000
+Beit Lahem|Battir|5000
+Beit Lahem|Al-Walaja|4000
+Beit Lahem|Al-Hader|3000
+Beit Lahem|Umm Salamuna|2000
+Beit Lahem|Marah Rabah|4000
+Beit Lahem|Jurat ash Sham'a|3000
+Beit Lahem|Al-Minya|2000
+Beit Lahem|Aida Refugee Camp|7000
+Beit Lahem|Deheishe Refugee Camp|8000
+Beit Lahem|Azza Refugee Camp|6000
+Qalqilya|Qalqilya|50000
+Qalqilya|Habla|8000
+Qalqilya|Jayyous|6000
+Qalqilya|Ras Atiya|4000
+Qalqilya|Azzun|12000
+Qalqilya|Isla|8000
+Qalqilya|Kafr Qaddum|5000
+Qalqilya|Az Zawiya|7000
+Qalqilya|Izbat Salman|3000
+Qalqilya|Kafr Thulth|4000
+Qalqilya|Kfar Saba|2000
+Qalqilya|Ma'ale Iron|1500
+Qalqilya|Nabi Elias|3500
+Qalqilya|Ni'lin|4000
+Qalqilya|Zawiya|4000
+Jerusalem|Jerusalem|900000
+Jerusalem|Shu'fat|35000
+Jerusalem|Beit Hanina|40000
+Jerusalem|Shu'fat Refugee Camp|25000
+Jerusalem|Qalandia|15000
+Jerusalem|Sur Baher|20000
+Jerusalem|Silwan|50000
+Jerusalem|At-Tur|30000
+Jerusalem|Jabal Mukaber|25000
+Jerusalem|Beit Safafa|10000
+Jerusalem|Al-Walaja|7000
+Jerusalem|Al-'Isawiya|20000
+Jerusalem|Anata|10000
+Jerusalem|Al-Ram|40000
+Jerusalem|Hizma|5000
+Jerusalem|Bir Nabala|4000
+Jerusalem|Al-Jib|7000
+Jerusalem|Qatanna|6000
+Jerusalem|Beit Ijza|3000
+Jerusalem|Beit Duqqu|5000
+Jerusalem|Beit Surik|4000
+Jerusalem|Beit Anan|5000
+Jerusalem|Beit Hanina al-Balad|6000
+Jerusalem|Kharayib Umm al-Lahim|3000
+Jerusalem|Al-Qubeiba|2500
+Jerusalem|Bir Nibala|3500
+Tul Karm|Tul Karm|70000
+Tul Karm|Anabta|10000
+Tul Karm|Far'un|8000
+Tul Karm|Kafr Jammal|5000
+Tul Karm|Bal'a|4000
+Tul Karm|Kafr Zibad|6000
+Tul Karm|Deir al Ghusun|7000
+Tul Karm|Shufa|4000
+Tul Karm|Iktaba|3000
+Tul Karm|Nazlat 'Isa|5000
+Tul Karm|Attil|2000
+Tul Karm|Zeita|7000
+Tul Karm|Kufr al Labad|5000
+Tul Karm|Jalbun|4000
+Salfit|Salfit|10000
+Salfit|Bruqin|5000
+Salfit|Kafr ad Dik|3000
+Salfit|Deir Istiya|7000
+Salfit|Kifl Haris|8000
+Salfit|Haris|5000
+Salfit|Mas'ha|3000
+Salfit|Khirbet Qana|2000
+Jericho|Jericho|20000
+Jericho|Al Auja|5000
+Jericho|Az Zubaidat|3000
+Jericho|Fasayil|2000
+Jericho|Al Masyoon|4000
+Jericho|Al Jiftlik|8000
+Jenin|Jaba|7000
+Jenin|Yabad|31000
+Jenin|Jenin|92000
+Jenin|Qabatiya|20000
+Jenin|Arraba|15000
+Jenin|Silat al Harithiya|10000
+Jenin|Zababdeh|6000
+Jenin|Tura al Gharbiya|8000
+Jenin|Kufeirit|6000
+Jenin|Al Yamun|25000
+Jenin|Al Jalama|5000
+Jenin|Kafr Dan|8000
+Jenin|Meithalun|4000
+Jenin|Faqqua|7000
+Jenin|Zububa|6000
+Jenin|Al Mugheir|3000
+Jenin|Al Araqa|5000
+Jenin|Barta'a|10000
+Ramallah|Ramallah|70000
+Ramallah|al Bireh|40000
+Ramallah|Beitunia|20000
+Ramallah|Bir Zeit|10000
+Ramallah|Deir Dibwan|5000
+Ramallah|Jifna|3000
+Ramallah|Al Amari Refugee Camp|25000
+Ramallah|Qalandia Refugee Camp|30000
+Ramallah|Kharbatha al-Misbah|6000
+Ramallah|Al-Jalazun Refugee Camp|10000
+Ramallah|Beit Liqya|5000
+Ramallah|Beit Ur al-Fauqa|4000
+Ramallah|Al-Janiya|3000
+Ramallah|Beitin|4000
+Ramallah|Deir Jarir|5000
+Ramallah|Ein Yabrud|6000
+Ramallah|Kafr Malik|3000
+Ramallah|Kobar|7000
+Ramallah|Mazra'a ash Sharqiya|4000
+Ramallah|Nabi Salih|3000
+Ramallah|Saffa|5000
+Ramallah|Sinjil|4000
+Ramallah|Taybeh|6000
+Ramallah|Umm Safa|3000
+Ramallah|Rawabi|5000
